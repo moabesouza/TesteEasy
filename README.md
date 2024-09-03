@@ -1,4 +1,4 @@
-Dado um array inteiro nums e um inteiro k, return if tem um bom subarray ou não.truenumsfalse
+Dado um array inteiro nums e um inteiro k, return if tem um bom subarray ou não.true, nums, false
 
 Um bom subarray é um subarray onde:
 
@@ -7,7 +7,7 @@ A soma dos elementos do subarray é um múltiplo de .k
 Observe que:
 
 Um subarray é uma parte contígua do array.
-Um inteiro é um múltiplo de se existe um inteiro tal que . é sempre um múltiplo de .xknx = n * k0k
+Um inteiro é um múltiplo de se existe um inteiro tal que . é sempre um múltiplo de .x,k,n,x = n * k,0,k
  
 
 Exemplo 1:
